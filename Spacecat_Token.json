@@ -1,0 +1,16 @@
+{
+
+  "name": "Spacecat Token 1",
+  "description": "Meet Spacecat, the fearless feline adventurer who roams the cosmos with curiosity and grace. Draped in a sleek spacesuit, Spacecat navigates through starry skies and distant galaxies, always on the lookout for new wonders. Mint this unique NFT and join Spacecat on an interstellar journey that transcends the ordinary.",
+  "external_url": "https://kirankumarvel.wordpress.com/wp-content/uploads/2024/12/spacecat-nft-.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artefact",
+      "value": "Spacesuit"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Galactic Explorers"
+    }
+  ]
+}
